@@ -1,8 +1,9 @@
 # BlueBirdsSongSystemReportUI
-BlueBirdsSongSystemReportUI系统定时报告UI及混合生成模块
-基于SSL邮件系统，定时生成PDF报告，可以根据html或者xml生成PDF文件
-基于BlueBirdsSong UI 开发
+BlueBirdsSongSystemReportUI系统定时报告UI及混合生成模块,
+基于SSL邮件系统，定时生成PDF报告,可以根据html或者xml生成PDF文件
+基于BlueBirdsSong UI 开发,
 BlueBirdsSong UI 灵感来自 Azone Blue Birds Song 美宇
+</br></br></br>
 ![image](https://github.com/pisual/BlueBirdsSongSystemReportUI/blob/master/PSD/bear.png)
 ![image](https://github.com/pisual/BlueBirdsSongSystemReportUI/blob/master/PSD/%E6%8A%A5%E5%91%8A%E9%A6%96%E9%A1%B5.jpg)
 ![image](https://github.com/pisual/BlueBirdsSongSystemReportUI/blob/master/PSD/%E5%86%85%E9%83%A8%E6%8A%A5%E5%91%8A%E9%A6%96%E9%A1%B5CELLS%20SYstem%20report.jpg)
