@@ -1,0 +1,84 @@
+#Body
+{
+    background-image: url("../images/Background.jpg");
+    width: 1080px;
+    height: 1920px;
+}
+#PisualCellsLogo {
+    background-image: url("../images/PisualCellsLogo.png");
+    position: absolute;
+    left: 483px;
+    top: 15px;
+    width: 116px;
+    height: 116px;
+    z-index: 41;
+}
+#TopTextTitle {
+    font-size: 25px;
+    font-family: "Avenir Next";
+    color: rgb( 0, 0, 0 );
+    line-height: 0.222;
+    position: absolute;
+    left: 324.531px;
+    top: 284.206px;
+    width: 481px;
+    height: 19px;
+    z-index: 45;
+}
+#ReportData {
+    font-size: 111.111px;
+    font-family: "Avenir Next";
+    font-weight: 100;
+    color: rgb( 0, 0, 0 );
+    line-height: 0.05;
+    position: absolute;
+    left: 261px;
+    top: 220.45px;
+    width: 563px;
+    height: 83px;
+    z-index: 42;
+}
+#bearLogo {
+    background-image: url("../images/bearLogo.png");
+    position: absolute;
+    left: 940px;
+    top: 1786px;
+    width: 131px;
+    height: 128px;
+    z-index: 43;
+}
+#DownloadJob {
+    font-size: 22.278px;
+    font-family: "Copperplate";
+    color: rgb( 134, 129, 129 );
+    line-height: 1;
+    position: absolute;
+    left: 200.516px;
+    top: 411.013px;
+    width: 200px;
+    height: 12px;
+    z-index: 49;
+}
+#ReportStartOne {
+    font-size: 22.278px;
+    font-family: "Copperplate";
+    color: rgb( 134, 129, 129 );
+    line-height: 1;
+    position: absolute;
+    left: 199.937px;
+    top: 437.013px;
+    width: 800px;
+    height: 126px;
+    z-index: 50;
+}
+#StatusIcons {
+    background-image: url("../images/StatusIcons.png");
+    position: absolute;
+    left: 165px;
+    top: 408px;
+    width: 25px;
+    height: 25px;
+    z-index: 43;
+}
+
+
